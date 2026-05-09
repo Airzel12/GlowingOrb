@@ -1,0 +1,9 @@
+{
+  "name": "GlowingOrbMod",
+  "version_number": "1.1.8",
+  "website_url": "",
+  "description": "A protective glowing orb that follows you, attacks enemies, and ascends to disable hazards.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
